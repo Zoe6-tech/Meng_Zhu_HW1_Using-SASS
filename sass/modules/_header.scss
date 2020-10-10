@@ -1,0 +1,12 @@
+
+.mainHead {
+    height:110px;
+    background-color:$mainHeader-background-color;
+}
+
+.clLogo { 
+    position:relative;
+    top: 50%;
+    transform: translateY(-50%);
+    left:40px;
+}
