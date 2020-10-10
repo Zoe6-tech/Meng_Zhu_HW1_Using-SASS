@@ -1,2 +1,17 @@
-# Meng_Zhu_HW1_Using-SASS
-Using SASS    Modular CSS
+# Modular CSS-HW1
+## Description
+Use the supplied CSS file as starting point, break this down and move parts of it into **modular SASS files**.
+## Technologies
+* Visual Studio Code
+* Window powershell
+* Git Bash
+## Prerequisites
+* HTML
+* CSS
+* SASS
+## Code Example
+Compile SASS into CSS file:`sass --watch sass:css --style compressed` or `sass --watch sass:css`
+## Author
+Zhu Meng
+## License
+This project is licensed under the MIT[MIT] (MIT) license
