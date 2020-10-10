@@ -125,6 +125,8 @@ body { font-family: 'Lato', sans-serif; font-size:16px; background-color: #50505
 .profPanel ul { color:#9e9e9e; padding-top:5px; font-weight:300; }
 .profPanel span { margin-right:8px; }
 
+
+
 .calendar, .trending, .sports { 
     height:350px;
     background-color: #959595;
