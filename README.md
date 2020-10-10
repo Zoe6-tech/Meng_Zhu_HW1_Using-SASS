@@ -10,7 +10,7 @@ Use the supplied CSS file as starting point, break this down and move parts of i
 * CSS
 * SASS
 ## Code Example
-Compile SASS into CSS file:`sass --watch sass:css --style compressed`
+Compile SASS into CSS file:`sass --watch sass:css --style compressed` or `sass --watch sass:css`
 ## Author
 Zhu Meng
 ## License
