@@ -1,7 +1,7 @@
 # Modular CSS-HW1
 ## Description
-Task 1. Use the supplied CSS file as starting point, break this down and move parts of it into **modular SASS files**.
-Task 2. Use Fetchon a page load to retrieve the data, gets the data back from the server(classData.json), and processes it.
+1. Use the supplied CSS file as starting point, break this down and move parts of it into **modular SASS files**.
+2. Use Fetchon a page load to retrieve the data, gets the data back from the server(classData.json), and processes it.
 ## Technologies
 * Visual Studio Code
 * Window powershell
