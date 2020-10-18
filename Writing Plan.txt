@@ -1,0 +1,22 @@
+Writing Plan-Using Fetch:
+
+1. Fetching classData.JSON file, all the fetch function passing the url;
+2. Give me responce, classData.json is the respence we get. Turn it to js object;
+3. Get and proData and then handle the profData.
+4. When sending profData to a web server, the profData has to be a string. 
+      Convert a JavaScript object into a string with JSON.stringify(profData).
+5. Need a function to handle the profData -> handleData(JSON.stringify(profData));
+6. In index.html, move all the content from <div class="profPanelText"> to <template class="prof-template"> 
+7. Run a function handleData, pass profData
+8. Get template contents
+9. Grab professor template and clone it
+10.Get all the childern from "professor",<p> <ul> are inside of currentProfText
+
+myData['coursename'] ->  #course-name  
+myData['coursecode'] ->  #course-code
+myData['profname'] ->  .prof-name 
+
+create <li> tag in main.js to handle the differet course time
+childLi  ->  myData['classtime'][cs_time];
+
+11.Put all back on the webpage
